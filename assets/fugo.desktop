@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Fugo
+Comment=Hugo site management tool for Ubuntu
+Exec=/path/to/fugo/build/linux/x64/release/bundle/fugo
+Icon=/path/to/fugo/assets/icon.png
+Terminal=false
+Categories=Development;TextEditor;
+Keywords=hugo;markdown;blog;static;site;
+StartupNotify=true
